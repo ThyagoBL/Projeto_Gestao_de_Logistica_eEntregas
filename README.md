@@ -1,4 +1,4 @@
-# Projeto_Gestao_de_Logistica_eEntregas
+# Projeto_Gestao_de_Logistica_e_Entregas
 PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 # 14. Gestão de Logística e Entregas
 
