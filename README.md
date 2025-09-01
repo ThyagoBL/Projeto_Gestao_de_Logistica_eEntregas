@@ -11,6 +11,8 @@ PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 | [ARTHUR MEVES SILVA] | [Analista] | [https://github.com/meveszinho] |
 | [MATHEUS DA SILVA BATISTA] | [Analista] | [https://github.com/The-Kermit] |
 | [RENAN YUKI FUJITA] | [Analista] | [https://github.com/renanfujita] |
+| [MARCO ANTONIO DA SILVA] | [Analista] | [https://github.com/marcoantoniodasilva] |
+| [GUTEMBERG CAVALCANTE DOS SANTOS] | [Analista] | [https://github.com/Npkss]|
 
 #  Gestão de Logística e Entregas – Módulo ERP
 
