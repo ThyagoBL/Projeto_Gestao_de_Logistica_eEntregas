@@ -13,12 +13,12 @@ PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 | [RENAN YUKI FUJITA] | [Analista] | [https://github.com/renanfujita] |
 | [MARCO ANTONIO DA SILVA] | [Analista] | [https://github.com/marcoantoniodasilva] |
 | [GUTEMBERG CAVALCANTE DOS SANTOS] | [Analista] | [https://github.com/Npkss]|
-
+| [DIEGO NASCIMENTO DE FARIA] | [Analista] [https://github.com/DiegoFaria2111712]|
 #  Gestão de Logística e Entregas – Módulo ERP
 
 ##  Descrição do Sistema
 
-Este módulo de ERP foi desenvolvido para otimizar o processo logístico de empresas que dependem de entregas rápidas e eficientes. O sistema oferece funcionalidades como roteirização inteligente, acompanhamento em tempo real das entregas, atualização automática de status e integração com transportadoras. A proposta é garantir maior controle operacional, reduzir custos logísticos e melhorar a experiência do cliente final.
+Este módulo de ERP foi desenvolvido para otimizar o processo logístico de empresas que dependem de entregas rápidas e eficientes. O sistema oferece funcionalidades como roteirização inteligente, acompanhamento em tempo real dEGOas entregas, atualização automática de status e integração com transportadoras. A proposta é garantir maior controle operacional, reduzir custos logísticos e melhorar a experiência do cliente final.
 
 ##  Justificativa da Escolha
 
