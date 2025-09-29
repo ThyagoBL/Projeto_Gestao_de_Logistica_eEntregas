@@ -13,7 +13,7 @@ PROJETO DE EXTENSÃO EM ADIMINISTRAÇÃO DE BANCO DE DADOS
 | [RENAN YUKI FUJITA] | [Analista] | [https://github.com/renanfujita] |
 | [MARCO ANTONIO DA SILVA] | [Analista] | [https://github.com/marcoantoniodasilva] |
 | [GUTEMBERG CAVALCANTE DOS SANTOS] | [Analista] | [https://github.com/Npkss]|
-| [DIEGO NASCIMENTO DE FARIA] | [Analista] [https://github.com/DiegoFaria2111712]|
+| [DIEGO NASCIMENTO DE FARIA] | [Analista] | [https://github.com/DiegoFaria2111712]|
 #  Gestão de Logística e Entregas – Módulo ERP
 
 ##  Descrição do Sistema
